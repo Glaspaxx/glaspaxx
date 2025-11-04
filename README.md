@@ -30,8 +30,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glaspaxx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaspaxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 ---
@@ -39,11 +39,11 @@
 ### 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=glaspaxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glaspaxx&theme=dracula&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -52,10 +52,10 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glaspaxx&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glaspaxx&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 ### 🧠 Fun Extras
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=glaspaxx&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 <!-- If you use WakaTime -->
