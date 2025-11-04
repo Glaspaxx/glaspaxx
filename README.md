@@ -51,11 +51,11 @@
 ### 📦 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glaspaxx&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/glaspaxx/boxspot_dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glaspaxx&repo=boxspot_dev&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glaspaxx&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/glaspaxx/InDrive_Fleet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glaspaxx&repo=InDrive_Fleet&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
