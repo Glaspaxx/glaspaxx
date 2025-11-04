@@ -3,8 +3,8 @@
 <h3 align="center">🚀 Passionate Developer | 🌍 Tech Explorer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://your-website.com">🌐 Website</a> •
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">💼 LinkedIn</a> •
+  <a href="https://boxspot.ma">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/mohamed-aymane-sfouli/">💼 LinkedIn</a> •
   <a href="mailto:sfaymane@gmail.com">📫 Email</a>
 </p>
 
@@ -78,8 +78,8 @@
 ### 💬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-aymane-sfouli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sfaymane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
