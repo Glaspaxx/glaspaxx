@@ -63,12 +63,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Glaspaxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=F5B445&icon_color=F5B445&text_color=C9D1D9&ring_color=F5B445&rank_icon=github&custom_title=Aymane%27s+GitHub+stats&hide=issues,prs">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Glaspaxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D97706&icon_color=D97706&text_color=24292F&ring_color=D97706&rank_icon=github&custom_title=Aymane%27s+GitHub+stats&hide=issues,prs" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Glaspaxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=F5B445&icon_color=F5B445&text_color=C9D1D9&ring_color=F5B445&rank_icon=github&custom_title=Aymane%27s+GitHub+stats&hide=issues,prs">
+    <img height="170" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Glaspaxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D97706&icon_color=D97706&text_color=24292F&ring_color=D97706&rank_icon=github&custom_title=Aymane%27s+GitHub+stats&hide=issues,prs" alt="GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaspaxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=F5B445&text_color=C9D1D9&exclude_repo=open-webui,mlops-on-gcp&hide=jupyter%20notebook,html,css">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaspaxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=D97706&text_color=24292F&exclude_repo=open-webui,mlops-on-gcp&hide=jupyter%20notebook,html,css" alt="Most used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Glaspaxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=F5B445&text_color=C9D1D9&exclude_repo=open-webui,mlops-on-gcp&hide=jupyter%20notebook,html,css">
+    <img height="170" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Glaspaxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=D97706&text_color=24292F&exclude_repo=open-webui,mlops-on-gcp&hide=jupyter%20notebook,html,css" alt="Most used languages">
   </picture>
 </div>
 
